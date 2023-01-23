@@ -12,3 +12,29 @@
 .c-clr{
     background-color: aquamarine;
 }
+
+ .sml{
+    width:100%;
+    height: 150px;
+ 
+}
+.big{
+    width:100%;
+    height: 300px;
+} 
+@media screen and (max-width:576px) 
+{
+    .sp-btn{
+        width:130px;
+        height:60;
+        position:absolute;
+        top:530px;
+        left: 80px;
+    }
+    .sp-btn h2{
+        font-size:medium;
+    }
+    .sp-btn p{
+        font-size: small;
+    }
+}
