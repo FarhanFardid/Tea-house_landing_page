@@ -1,0 +1,14 @@
+/* custom CSS */
+.sp-btn{
+    width: 189px;
+    height: auto;
+    border-radius: 5px;
+    border: 2px solid aliceblue;
+    position: relative;
+    top:-90px;
+    left: 65px;
+    background-color: rgb(46, 191, 223);
+}
+.c-clr{
+    background-color: aquamarine;
+}
