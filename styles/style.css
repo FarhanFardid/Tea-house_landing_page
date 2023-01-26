@@ -26,7 +26,7 @@
 /* client section */
 .bg-img{
     background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
-border-radius: 10px;
+border-radius: 1px;
 height: 700px;
 }
 .img{
@@ -69,22 +69,16 @@ height: 700px;
     height: 900px;
     }
     .img{
-        height: 70px;
-        width: 70px;
-        position:relative;
         left:-115px;
-        top:-20px;
-    
     }
     .mov{
-        position:relative;
-        z-index: 1;
+    
         top:-400px;
         left: -20px;
        
     }
     .cus-card{
-        width:75%;
+    
         height: 280px;
     }
 }
